@@ -1,6 +1,5 @@
 # g-audio
-` ``html
-<template>
+\<template>\<br>
 	<view>
     <view>
       <view>src -> url</view>
@@ -37,4 +36,3 @@
 <style>
 	
 </style>
-` ``
